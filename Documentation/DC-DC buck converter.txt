@@ -1,0 +1,31 @@
+https://elektronik-lavpris.dk/p139823/modu0106-dc-dc-step-down-konverter-in-4-35vdc-out-13-35vdc-2a-print/
+
+This version of LM2596 DC-DC step-down (buck) power supply module includes the very useful addition of an integrated digital voltage meter.
+
+The voltage meter is capable of sensing both input and output supply voltages and can be quickly switched between the two by pressing a voltage selection button on the module.
+
+Together with its high precision multi-turn potentiometer this means any desired output voltage within its supply range can be set without the need for an external voltage meter.
+
+The module also boasts a very high operating range with a DC input supply range of 4 - 35V and an adjustable output range of 1.3 - 35V.
+
+In addition to its voltage range it has a high output current capability of up to 2A (see notes below).
+
+Connection to the module is provided with the option of both input and output screw terminals or large solderable pads if a more permanent connection is required.
+
+Product Code: MODU0106
+Output Voltage: Continuous Adjustable (1.3v-35 V)
+Maximum Output Current: 2A*
+Voltmeter Resolution: ±0.1V
+Voltmeter Digital Display Range: 0v-45v
+Voltmeter Input Voltage Range: Dc 4v-40v
+Size :66 * 36mm 
+
+Notes: Maximum current is dependent on input and output voltages, ambient temperature and cooling.
+
+To achieve maximum ratings an external heatsink may be required.
+
+Maximum LM2596 operating temperature must not exceed 125oC otherwise permanent thermal damage can occur.
+
+Bemærk: Dette er et "maker" modul for udviklere. Den leveres uden yderligere instruktioner end dem som du finder her.
+
+Varer i kategorien "Byggesæt og moduler" skal som udgangspunkt betragtes som komponenter til hobbybrug, og ikke et færdigt produkt! - de er dermed ikke CE-mærkede.

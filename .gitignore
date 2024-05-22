@@ -1,0 +1,19 @@
+/*.FCStd1
+/*.FCStd
+/*.stl
+/Design 2.0/*.FCStd1
+
+/Arduino/Esp8266_01_FinalCode/
+/Arduino/testEsp8266_01_AsyncWebServer/
+/Arduino/testEsp8266_01_withMotor/
+/Arduino/testEsp8266_01_withMotor_botton_LED/
+/Arduino/testEsp8266_01_withMotor_botton_LED_Host/
+/Arduino/testEsp8266-01/
+/Arduino/testMotor_AccelStepper/
+/Arduino/testMotor_withBotton/
+/Arduino/testMotors/
+/Arduino/TestWifiManager/
+
+/Documentation/esp8266_at_bin_v1.5.1/
+/Documentation/ESP8266_NonOS_AT_Bin_V1.7.4/
+/Documentation/flash_download_tool_3.9.5/

@@ -1,0 +1,53 @@
+https://forum.arduino.cc/t/powering-arduino-and-stepper-motors-with-single-power-source/962892?fbclid=IwAR0GFNRZS95UIXwJfbM83SCAr2hZAPoxDTBoLzypGC8tlv3MyCrAef7r_BY
+
+https://lastminuteengineers.com/a4988-stepper-motor-driver-arduino-tutorial/
+
+https://www.diyengineers.com/2022/04/21/a4988-how-to-use-with-arduino-or-nodemcu-esp8266/
+
+A Beginner's Guide to the ESP8266:
+https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html
+
+Setting the wires on the programmer:
+https://www.youtube.com/watch?v=wXXXgaePZX8&ab_channel=EmbeddedLaboratory
+
+ESP8266 via arduino:
+https://www.youtube.com/watch?v=IHl0YQFnn_s&t=736s&ab_channel=Silence%26Progress
+
+Update ESP firmware:
+https://www.youtube.com/watch?v=wXXXgaePZX8&ab_channel=EmbeddedLaboratory
+ESP8266 documentation: https://www.espressif.com/sites/default/files/documentation/4a-esp8266_at_instruction_set_en.pdf
+https://www.espressif.com/sites/default/files/4a-esp8266_at_instruction_set_en_v1.5.4_0.pdf
+connect GPIO0 to ground. Then set Reset to ground and release it again. GPIO should remain grounded to be in programming mode
+
+esp_init_data_default.bin 	0xFC000 Optional. Stores default RF parameter values.
+blank.bin 			0x7E000 Initialize Flash user parameter area, more details in Appendix.
+blank.bin 			0xFE000 Initialize Flash system parameter area, more details in
+Appendix.
+boot.bin 			0x00000 In \bin\at
+user1.1024.new.2.bin 		0x01000 In \bin\at\512+512
+
+Using all 4 GPIO pins:
+https://www.instructables.com/How-to-use-the-ESP8266-01-pins/
+https://www.forward.com.au/pfod/ESP8266/GPIOpins/ESP8266_01_pin_magic.html
+
+Building web server on ESP8266:
+https://www.instructables.com/How-to-Build-a-ESP8266-Web-Server/
+
+Best YouTube explanations for setting up server on ESP
+https://www.youtube.com/watch?v=ZJnXKD0LqDo&ab_channel=MoThunderz
+
+
+
+
+
+For stepper motor driver
+	https://www.makerguides.com/a4988-stepper-motor-driver-arduino-tutorial/
+	https://dronebotworkshop.com/stepper-motors-with-arduino/
+Best: 	https://lastminuteengineers.com/a4988-stepper-motor-driver-arduino-tutorial/
+
+
+
+
+
+
+
